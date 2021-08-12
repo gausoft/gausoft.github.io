@@ -1,8 +1,5 @@
 
 $(document).ready(function() {
-
-  $('#gausoftage').html((new Date().getFullYear()) - 1996)
-
   AOS.init( {
     // uncomment below for on-scroll animations to played only once
     // once: true  
